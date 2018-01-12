@@ -221,3 +221,40 @@ app.listen(3000, () => {
 // git commit -m "first commit"
 // git remote add origin https://github.com/zheka-morskoi/test2.git
 // git push -u origin master
+
+
+// git init
+// git status
+
+
+// git add package.json
+// git status
+// git add public/
+
+// //.gitignore
+// node_modules/
+// server.log
+// package-lock.json
+  
+  
+// git rm -r --cached path_to_your_folder/  //remove from track list
+ 
+  
+// git add .gitignore
+
+// git commit -m "first commit"
+// git remote add origin https://github.com/zheka-morskoi/test2.git
+// git push -u origin master
+
+// https://www.heroku.com/
+//https://devcenter.heroku.com/articles/heroku-cli
+
+// now check
+
+// $ heroku help
+
+// $ heroku login
+
+// $ git push
+
+// $ heroku open
